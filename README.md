@@ -79,14 +79,7 @@ docker-compose ps
 docker-compose logs nwaku
 ```
 ```console
-# bu komut ile içersine girelim:
-nano ~/nwaku-compose/docker-compose.yml
-```
-> içersine girdikten sonra `ctrl w` yaparak `3000:3000` yazıp aratalım
 
-> `127.0.0.1:3000:3000` olanı `0.0.0.0:3000:3000` şeklinde değişelim.
-
-> CTRL X Y ENTER ile kaydedip çıkalım.
 
 ```console
 # tekrar başlatalım

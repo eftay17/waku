@@ -101,5 +101,5 @@ curl --location 'http://127.0.0.1:8645/debug/v1/version'
 curl --location 'http://127.0.0.1:8645/debug/v1/info'
 ```
 
-
+http://37.27.27.235:3000/d/yns_4vFVk/nwaku-monitoring?orgId=1&refresh=1m
 
